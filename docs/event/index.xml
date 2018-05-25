@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Lain Radio Club</title>
+    <link>https://lainradio.club/event/</link>
+    <description>Recent content in Events on Lain Radio Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-UK</language>
+    <lastBuildDate>Sat, 19 May 2018 18:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://lainradio.club/event/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://lainradio.club/event/19-05-2018/</link>
+      <pubDate>Sat, 19 May 2018 18:00:00 +0100</pubDate>
+      
+      <guid>https://lainradio.club/event/19-05-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lainradio.club/event/18-05-2018/</link>
+      <pubDate>Fri, 18 May 2018 18:00:00 +0100</pubDate>
+      
+      <guid>https://lainradio.club/event/18-05-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lainradio.club/event/09-05-2018/</link>
+      <pubDate>Wed, 09 May 2018 18:00:00 +0100</pubDate>
+      
+      <guid>https://lainradio.club/event/09-05-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lainradio.club/event/28-04-2018/</link>
+      <pubDate>Sat, 28 Apr 2018 18:00:00 +0100</pubDate>
+      
+      <guid>https://lainradio.club/event/28-04-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lainradio.club/event/21-04-2018/</link>
+      <pubDate>Sat, 21 Apr 2018 18:00:00 +0100</pubDate>
+      
+      <guid>https://lainradio.club/event/21-04-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
