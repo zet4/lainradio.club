@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Lain Radio Club</title>
-    <link>https://lainradio.club/tags/</link>
-    <description>Recent content in Tags on Lain Radio Club</description>
+    <title>Posts on Lain Radio Club</title>
+    <link>https://lainradio.club/post/</link>
+    <description>Recent content in Posts on Lain Radio Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-UK</language>
     <lastBuildDate>Fri, 25 May 2018 12:26:29 +0100</lastBuildDate>
     
-	<atom:link href="https://lainradio.club/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lainradio.club/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hugo</title>
-      <link>https://lainradio.club/tags/hugo/</link>
+      <title>Lain Radio Club website launch</title>
+      <link>https://lainradio.club/post/launched/</link>
       <pubDate>Fri, 25 May 2018 12:26:29 +0100</pubDate>
       
-      <guid>https://lainradio.club/tags/hugo/</guid>
+      <guid>https://lainradio.club/post/launched/</guid>
       <description></description>
     </item>
     
